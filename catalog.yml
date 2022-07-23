@@ -2,6 +2,11 @@ PREDEF:
   - README.re
 CHAPS:
   - sex.re
+  - echo.re
+  - nst.re
+  - nipt.re
+  - logging.re
+  - bed.re
 APPENDIX:
 
 POSTDEF:
