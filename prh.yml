@@ -4,3 +4,7 @@ rules:
     specs:
       - from: Nipt
         to: NIPT
+  - expected: NST
+    specs:
+      - from: nst
+        to: NST

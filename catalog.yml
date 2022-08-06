@@ -3,8 +3,8 @@ PREDEF:
 CHAPS:
   - sex.re
   - echo.re
-  - nst.re
   - nipt.re
+  - nst.re
   - logging.re
   - bed.re
 APPENDIX:
