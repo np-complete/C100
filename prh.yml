@@ -8,3 +8,12 @@ rules:
     specs:
       - from: nst
         to: NST
+  - expected: うんち
+    pattern: /[うウ][んン][チこコ](?!なう)/
+    specs:
+      - from: うんこ
+        to: うんち
+      - from: ウンチ
+        to: うんち
+      - from: うんこなう
+        to: うんこなう
